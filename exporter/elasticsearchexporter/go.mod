@@ -35,7 +35,7 @@ require (
 	go.opentelemetry.io/collector/extension/extensionauth v1.35.1-0.20250630174123-18b3b578b0b3
 	go.opentelemetry.io/collector/pdata v1.35.1-0.20250630174123-18b3b578b0b3
 	go.opentelemetry.io/collector/pdata/pprofile v0.129.1-0.20250630174123-18b3b578b0b3
-	go.opentelemetry.io/ebpf-profiler v0.0.0-20250212075250-7bf12d3f962f
+	go.opentelemetry.io/ebpf-profiler v0.0.202527
 	go.opentelemetry.io/otel v1.37.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/zap v1.27.0
